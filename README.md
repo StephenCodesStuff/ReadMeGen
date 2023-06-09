@@ -1,4 +1,4 @@
- ![Github Badge](https://img.shields.io/badge/license-MIT-green)
+  ![Github Badge](https://img.shields.io/badge/license-GNU-green)
 
   
   # ReadMe Maker
@@ -6,7 +6,7 @@
  
   ## Description
   
- A series of prompts to a quick readme template.
+ A program to make a brief readme template.
   
   ## Table of Contents 
   
@@ -29,28 +29,28 @@
   
   
   ## Usage
-  To make a readme
+  to make a readme template
   
   
   
   ## License
 
-  MIT
+  GNU
 
   
   
     
   ## Contributing
-  Made by Stephen Cook. Template format from https://coding-boot-camp.github.io/
+  Made by Stephen Cook.
   
   
   ## Tests
   
   To run tests, run the following command:
-  Run test using a command.
+  run the tests
   
   
   ## Questions
   
   Email: spcook23@gmail.com
-  github: https://github.com/stephencodesstuff
+  github: https://github.com/stephencodestuff
