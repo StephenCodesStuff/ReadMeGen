@@ -35,7 +35,7 @@
   
   ## License
 
-  ![Github Badge](https://img.shields.io/badge/license-MIT-green)
+  MIT
 
   
   
