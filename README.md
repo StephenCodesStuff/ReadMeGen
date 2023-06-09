@@ -1,9 +1,12 @@
-# 1
+ ![Github Badge](https://img.shields.io/badge/license-MIT-green)
+
+  
+  # ReadMe Maker
  
  
   ## Description
   
- 1
+ A series of prompts to a quick readme template.
   
   ## Table of Contents 
   
@@ -22,32 +25,32 @@
   ## Installation
   
   To install necessary dependencies, run the following command:
-  1
+  npm i
   
   
   ## Usage
-  1
+  To make a readme
   
   
   
   ## License
 
-![Github Badge](https://img.shields.io/badge/license-Apache-green)
+  ![Github Badge](https://img.shields.io/badge/license-MIT-green)
 
   
   
     
   ## Contributing
-  1
+  Made by Stephen Cook. Template format from https://coding-boot-camp.github.io/
   
   
   ## Tests
   
   To run tests, run the following command:
-  1
+  Run test using a command.
   
   
   ## Questions
   
-  Email: 
-  github: https://github.com/
+  Email: spcook23@gmail.com
+  github: https://github.com/stephencodesstuff
